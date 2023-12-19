@@ -26,4 +26,8 @@ class QuestionAnswer:
                 break
 
     def __str__(self):
-        return f"{len(self.question_answer)}: \n"+"\n".join(map(str, self.question_answer))
+        string = ""
+        for question, answer in self.question_answer:
+            string += f"\n({question}, {answer})"
+        return f"{len(self.question_answer)}: \n" + string
+
