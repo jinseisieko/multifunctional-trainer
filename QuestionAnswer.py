@@ -4,11 +4,9 @@ class QuestionAnswer:
         self.question_answer = []
 
     def add(self, question, answer):
-        for i, question_answer_ in enumerate(self.question_answer):
-            question_ = question_answer_[0]
-            answer_ = question_answer_[1]
+        for question_, answer_ in self.question_answer:
             if question_ == question and answer_ == answer:
-                break
+                return
         self.question_answer.append((question, answer))
 
     def add_one_line(self, string, sep_=";"):
@@ -39,4 +37,4 @@ class QuestionAnswer:
         string = ""
         for question, answer in self.question_answer:
             string += f"\n({question}, {answer})"
-        return f"{len(self.question_answer)}: \n" + string
+        return f"{len(self.question_answer)}:" + string

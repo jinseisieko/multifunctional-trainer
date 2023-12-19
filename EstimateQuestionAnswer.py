@@ -7,10 +7,10 @@ class EstimateQuestionAnswer(QuestionAnswer):
         self.grades = {}
 
     def estimate(self, question, good):
-        if question in self.question_answer:
-            self.question_answer[question] += 1 if good else -1
+        if question in self.grades:
+            self.grades[question] += 1 if good else -1
         else:
-            self.question_answer[question] = 1 if good else -1
+            self.grades[question] = 1 if good else -1
 
     def __str__(self):
         string = ""
@@ -20,4 +20,4 @@ class EstimateQuestionAnswer(QuestionAnswer):
                 string += f"{self.grades[question]})"
             else:
                 string += "0)"
-        return f"{len(self.question_answer)}: \n" + string
+        return f"{len(self.question_answer)}:" + string

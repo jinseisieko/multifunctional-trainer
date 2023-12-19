@@ -1,30 +1,60 @@
 Extensive;Обширный
+Обширный;Extensive
 Irritation;Раздражение
+Раздражение;Irritation
 Extra-curricular;Внеклассные занятия
+Внеклассные занятия;Extra-curricular
 Common sense;Здравый смысл
+Здравый смысл;Common sense
 To gain;Чтобы получить
+Чтобы получить;To gain
 Increasingly;Все чаще
+Все чаще;Increasingly
 Advantage;Преимущество
+Преимущество;Advantage
 To participate in;Участвовать в
+Участвовать в;To participate in
 To identify;Определить
+Определить;To identify
 Shift work;Посменная работа
+Посменная работа;Shift work
 Occasionally;Иногда
+Иногда;Occasionally
 Plumber;Сантехник
+Сантехник;Plumber
 Armed forces;Вооруженные силы
+Вооруженные силы;Armed forces
 Unnecessary;Ненужное
+Ненужное;Unnecessary
 Application;Приложение
+Приложение;Application
 To attend;Присутствовать
+Присутствовать;To attend
 Follow in one’s footsteps;Идите по своим стопам
+Идите по своим стопам;Follow in one’s footsteps
 To earn living;Чтобы заработать на жизнь
+Чтобы заработать на жизнь;To earn living
 To enclose;Заключить
+Заключить;To enclose
 Employee;Сотрудник
+Сотрудник;Employee
 Get the most out of;Получите максимальную отдачу от
+Получите максимальную отдачу от;Get the most out of
 Hardworking;Трудолюбивый
+Трудолюбивый;Hardworking
 Efficiently;Эффективно
+Эффективно;Efficiently
 Home schooling;Домашнее обучение
+Домашнее обучение;Home schooling
 Desirable;Желательно
+Желательно;Desirable
 Tough;Жесткий
+Жесткий;Tough
 Trustworthy;Надежный
+Надежный;Trustworthy
 Benefit;Выгода
+Выгода;Benefit
 To graduate from;Окончить
+Окончить;To graduate from
 Essential;Важное
+Важное;Essential
