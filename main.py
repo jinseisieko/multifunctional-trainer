@@ -4,6 +4,6 @@ from TranslationEnglishSimulator import TranslationEnglishSimulator
 
 qa = TranslationEnglishSimulator()
 qa.add_file(r"tests\english translation\vocabulary dictation.txt")
-qa.start_test()
-qa.start_test()
-print(qa)
+while input() == "":
+    qa.start_test(3)
+    print(qa)
