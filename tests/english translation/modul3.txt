@@ -1,0 +1,6 @@
+boarding school; интернат
+single-sex school; школа с одним полом
+co-education school; школа совместного обучения
+state school; государственная школа
+private school; частная школа
+specialist school; специализированная школа
